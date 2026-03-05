@@ -1,42 +1,35 @@
-name: Pages
+name: Deploy to GitHub Pages
+
 on:
   push:
     branches:
-      - main # 当推送到 main 分支时触发此工作流
+      - main  # 如果你使用其他分支，请修改为实际分支名
+
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Use Node.js 24.13.1 # 这里的版本号需要根据你的实际情况修改
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "24" # 例如: "20", "18"
-      - name: Cache NPM dependencies
-        uses: actions/cache@v4
-        with:
-          path: node_modules
-          key: ${{ runner.OS }}-npm-cache-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.OS }}-npm-cache-
-      - name: Install Dependencies
+          node-version: '20'  # 与你本地 Node.js 版本一致
+
+      - name: Install dependencies
         run: npm install
-      - name: Build
-        run: npm run build
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+
+      - name: Build static site
+        run: npm run build  # 这会执行 hexo generate，生成到 public 目录
+
+      - name: Deploy to gaogzhen.github.io
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          path: ./public
-  deploy:
-    needs: build
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}  # 需要使用你创建的 token
+          publish_dir: ./public
+          external_repository: gaogzhen/gaogzhen.github.io  # 目标仓库
+          publish_branch: main  # 目标分支，通常为 main
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Deploy from ${{ github.repository }}@${{ github.sha }}'
