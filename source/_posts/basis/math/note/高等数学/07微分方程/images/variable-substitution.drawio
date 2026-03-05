@@ -1,0 +1,55 @@
+<mxfile host="Electron" modified="2023-04-25T06:45:16.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="3ZfjeWjVD3_IUnyWqmbV" version="21.2.1" type="device">
+  <diagram id="a4W_V6vHJFuZQAVe2iLe" name="第 1 页">
+    <mxGraphModel dx="1098" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0Poa_lJi8gQABz0143MV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Poa_lJi8gQABz0143MV-1" target="0Poa_lJi8gQABz0143MV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Poa_lJi8gQABz0143MV-1" value="原方程`\frac{dy}{dx}=f(x,y)`&lt;br&gt;（难求解）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="113" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Poa_lJi8gQABz0143MV-2" value="观察：令`u=u(x,y)`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Poa_lJi8gQABz0143MV-3" value="`\frac{du}{dx}=g(x,u)`&lt;br&gt;（求解简单）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="113.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Poa_lJi8gQABz0143MV-4" value="通解：`\phi(x,u,c)=0`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="242.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Poa_lJi8gQABz0143MV-5" value="`\phi[x,u(x,u),c]=0`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="242" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Poa_lJi8gQABz0143MV-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.523;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.546;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0Poa_lJi8gQABz0143MV-3" target="0Poa_lJi8gQABz0143MV-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="340.5" as="sourcePoint" />
+            <mxPoint x="365" y="290.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Poa_lJi8gQABz0143MV-8" value="求解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="190.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Poa_lJi8gQABz0143MV-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.031;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.033;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0Poa_lJi8gQABz0143MV-4" target="0Poa_lJi8gQABz0143MV-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="272" as="sourcePoint" />
+            <mxPoint x="440" y="222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Poa_lJi8gQABz0143MV-10" value="`u=u(x,y)带回`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Poa_lJi8gQABz0143MV-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.435;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0Poa_lJi8gQABz0143MV-1" target="0Poa_lJi8gQABz0143MV-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Poa_lJi8gQABz0143MV-12" value="通解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="178" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

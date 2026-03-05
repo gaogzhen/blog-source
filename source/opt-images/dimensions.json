@@ -1,0 +1,450 @@
+{
+  "20181213181828702-partial-geometric-mean": {
+    "width": 666,
+    "height": 575
+  },
+  "20230414-axis-x-rotating-body": {
+    "width": 260,
+    "height": 194
+  },
+  "20230222-polynomial-division": {
+    "width": 3000,
+    "height": 4000
+  },
+  "202403101326-diagonal-rule": {
+    "width": 1080,
+    "height": 810
+  },
+  "graph-of-binary-functions": {
+    "width": 275,
+    "height": 183
+  },
+  "Coordinate-Plane": {
+    "width": 278,
+    "height": 181
+  },
+  "20230620-椭圆柱面-0805": {
+    "width": 233,
+    "height": 216
+  },
+  "20230620-抛物柱面-0805": {
+    "width": 225,
+    "height": 225
+  },
+  "20230606-直线与平面的夹角-空间直线及其方程": {
+    "width": 291,
+    "height": 173
+  },
+  "20230603-点到平面的距离-平面及其方程": {
+    "width": 258,
+    "height": 195
+  },
+  "20230603-平面的点法式方程-平面及其方程": {
+    "width": 225,
+    "height": 225
+  },
+  "20230530-空间直角坐标系": {
+    "width": 212,
+    "height": 238
+  },
+  "202300602-混合积几何意义-数量积": {
+    "width": 300,
+    "height": 168
+  },
+  "截屏2025-04-13 17.23.32-cone-water-injection": {
+    "width": 388,
+    "height": 292
+  },
+  "截屏2025-04-12 16.51.32-related-rate-balloon-rising": {
+    "width": 1066,
+    "height": 842
+  },
+  "截屏2025-04-10 16.49.02-hyperbola": {
+    "width": 1048,
+    "height": 1028
+  },
+  "截屏2024-07-01 21.23.42-continuity-breakpoints": {
+    "width": 686,
+    "height": 708
+  },
+  "截屏2024-05-05 16.44.36-sectioned-func": {
+    "width": 1436,
+    "height": 704
+  },
+  "202404121646-related-rate-balloon-rising": {
+    "width": 3000,
+    "height": 2040
+  },
+  "截屏2025-11-18 15.45.40-ship-sailing-track": {
+    "width": 488,
+    "height": 342
+  },
+  "截屏2025-11-18 15.07.58-inverted-cone-leakage": {
+    "width": 655,
+    "height": 408
+  },
+  "截屏2025-06-15 16.28.06-lever": {
+    "width": 692,
+    "height": 622
+  },
+  "截屏2025-06-15 15.54.32-pull-horizontally": {
+    "width": 856,
+    "height": 724
+  },
+  "point-sets": {
+    "width": 407,
+    "height": 199
+  },
+  "202403021623-binary_fun_special.drawio": {
+    "width": 450,
+    "height": 421
+  },
+  "202403021607-binary_func.drawio": {
+    "width": 480,
+    "height": 421
+  },
+  "202403021539_unary-composite-func.drawio": {
+    "width": 400,
+    "height": 361
+  },
+  "截屏2023-06-19 21.18.55-平面情形-伸缩法-0805": {
+    "width": 1102,
+    "height": 716
+  },
+  "截屏2023-06-17 15.25.46-圆锥面-0805": {
+    "width": 758,
+    "height": 950
+  },
+  "截屏2023-06-03 15.49.54-平面截距式方程-平面及其方程": {
+    "width": 476,
+    "height": 460
+  },
+  "截屏2023-06-01 15.37.33-向量积-数量积": {
+    "width": 626,
+    "height": 474
+  },
+  "截屏2023-05-30 16.51.18-向量在轴上的投影": {
+    "width": 554,
+    "height": 496
+  },
+  "截屏2023-05-30 15.14.41-向量的坐标表示": {
+    "width": 635,
+    "height": 572
+  },
+  "20230601-向量积模几何意义-数量积": {
+    "width": 183,
+    "height": 108
+  },
+  "20230601-力直线做功-数量积": {
+    "width": 164,
+    "height": 119
+  },
+  "20230530-方向角和方向余弦": {
+    "width": 2422,
+    "height": 1420
+  },
+  "20230530-方向角与方向余弦.drawio": {
+    "width": 216,
+    "height": 181
+  },
+  "20230529-数轴-向量及其线性运算.drawio": {
+    "width": 184,
+    "height": 67
+  },
+  "20230529-向量相加的平行四边形法则-向量及其线性运算.drawio": {
+    "width": 241,
+    "height": 141
+  },
+  "20230529-向量相加的三角形法则-向量及其线性运算.drawio": {
+    "width": 241,
+    "height": 141
+  },
+  "20230529-向量的平面坐标-向量及其线性运算.drawio": {
+    "width": 198,
+    "height": 181
+  },
+  "20230529-两向量相减-向量及其线性运算.drawio": {
+    "width": 211,
+    "height": 123
+  },
+  "20230529-三角形中位线-向量及其线性运算.drawio": {
+    "width": 162,
+    "height": 175
+  },
+  "20230529-n个向量相加-向量及其线性运算.drawio": {
+    "width": 229,
+    "height": 166
+  },
+  "20230527-向量夹角-向量及其线性运算.drawio": {
+    "width": 196,
+    "height": 131
+  },
+  "20230527-向量几何表示-向量及其线性运算.drawio": {
+    "width": 141,
+    "height": 131
+  },
+  "20200402083714834-旋转曲面-0805": {
+    "width": 299,
+    "height": 240
+  },
+  "截屏2023-04-29 16.40.00-example-3": {
+    "width": 748,
+    "height": 558
+  },
+  "variable-substitution.drawio": {
+    "width": 451,
+    "height": 184
+  },
+  "2023-04-25_spotlight-mirror-curve": {
+    "width": 437,
+    "height": 249
+  },
+  "ellipsoid": {
+    "width": 377,
+    "height": 317
+  },
+  "20230414-cylinder_sphere": {
+    "width": 447,
+    "height": 284
+  },
+  "20230414-cylinder_s": {
+    "width": 471,
+    "height": 250
+  },
+  "20230414-cylinder_cut": {
+    "width": 358,
+    "height": 268
+  },
+  "20230414-bx": {
+    "width": 364,
+    "height": 254
+  },
+  "20230414-arc_prob1": {
+    "width": 378,
+    "height": 265
+  },
+  "20230414-arc_len": {
+    "width": 349,
+    "height": 308
+  },
+  "20230410-x_4-y2_2x-fill": {
+    "width": 678,
+    "height": 451
+  },
+  "20230410-x2-y2-fill": {
+    "width": 3216,
+    "height": 2461
+  },
+  "20230407-ln-1_2-2": {
+    "width": 560,
+    "height": 420
+  },
+  "2023-04-18_semi-cubical-parabola": {
+    "width": 205,
+    "height": 184
+  },
+  "2023-04-18_regular-cone": {
+    "width": 302,
+    "height": 276
+  },
+  "2023-04-18_cycloid-arc-length": {
+    "width": 184,
+    "height": 157
+  },
+  "2023-04-17_donut": {
+    "width": 356,
+    "height": 266
+  },
+  "2023-04-16_截面积": {
+    "width": 600,
+    "height": 221
+  },
+  "2023-04-16_φy_ξy_yc_yd": {
+    "width": 631,
+    "height": 527
+  },
+  "2023-04-16_gy_x0_yc_yd": {
+    "width": 754,
+    "height": 409
+  },
+  "2023-04-16_fxy_xab": {
+    "width": 417,
+    "height": 327
+  },
+  "2023-04-16_fx_gx_y_xab": {
+    "width": 433,
+    "height": 330
+  },
+  "2023-04-16_cycloid": {
+    "width": 295,
+    "height": 245
+  },
+  "2023-04-16_0_hr_x": {
+    "width": 256,
+    "height": 185
+  },
+  "2023-04-14_double-curve-axis-y-rotate": {
+    "width": 734,
+    "height": 174
+  },
+  "2023-04-14_double-curve-axis-x-rotate": {
+    "width": 555,
+    "height": 192
+  },
+  "2023-04-14_cylindrical-shell": {
+    "width": 524,
+    "height": 538
+  },
+  "2023-04-14_axis-y-rotating": {
+    "width": 505,
+    "height": 304
+  },
+  "2023-04-14_axis-y-rotating-xa-xb-y0-fx": {
+    "width": 497,
+    "height": 315
+  },
+  "2023-04-13_ρ1-ρ2-θ": {
+    "width": 377,
+    "height": 347
+  },
+  "2023-04-13_cardioid-line": {
+    "width": 284,
+    "height": 280
+  },
+  "2023-04-13_acosθ": {
+    "width": 213,
+    "height": 223
+  },
+  "2023-04-12_curve-sector": {
+    "width": 284,
+    "height": 279
+  },
+  "2023-04-12_Archimedes spiral": {
+    "width": 544,
+    "height": 392
+  },
+  "2023-04-11_x2-x2_4-1": {
+    "width": 539,
+    "height": 271
+  },
+  "2023-04-11_x2-a2_y2-b2_1": {
+    "width": 648,
+    "height": 335
+  },
+  "定积分": {
+    "width": 2239,
+    "height": 1307
+  },
+  "20230310-表格法分部积分.drawio": {
+    "width": 651,
+    "height": 82
+  },
+  "20230226-0402-x-1=tant": {
+    "width": 161,
+    "height": 96
+  },
+  "2023-02-26_161821": {
+    "width": 559,
+    "height": 531
+  },
+  "20230210-001-0304函数的单调性和曲线的凹凸性-微分中值定理与导数的应用": {
+    "width": 382,
+    "height": 148
+  },
+  "0201导数的概念-导数与微分-导数的几何意义": {
+    "width": 320,
+    "height": 220
+  },
+  "函数的间断点": {
+    "width": 1082,
+    "height": 422
+  },
+  "20221103-breakpoint-1-jump": {
+    "width": 360,
+    "height": 238
+  },
+  "20221103-breakpoint-1-infinite": {
+    "width": 360,
+    "height": 233
+  },
+  "20221103-breakpoint-1-Oscillatory ": {
+    "width": 360,
+    "height": 231
+  },
+  "2022-10-18_0106-unit-circle": {
+    "width": 347,
+    "height": 291
+  },
+  "2021-08-13_floor": {
+    "width": 360,
+    "height": 223
+  },
+  "2021-08-11_abs": {
+    "width": 360,
+    "height": 237
+  },
+  "0106sinx-div-x": {
+    "width": 360,
+    "height": 223
+  },
+  "202403221548-urban-air-routes.drawio": {
+    "width": 161,
+    "height": 161
+  },
+  "20240304-geometric_meaning.drawio": {
+    "width": 270,
+    "height": 235
+  },
+  "v2-e23f507a57bce2b45e683e677623d095_1440w": {
+    "width": 307,
+    "height": 310
+  },
+  "v2-e23f507a57bce2b45e683e677623d095_1440w-双叶双曲面": {
+    "width": 307,
+    "height": 310
+  },
+  "v2-d207653a74102841e23a69b3a648f627_1440w-椭圆抛物面": {
+    "width": 228,
+    "height": 228
+  },
+  "v2-b62112a34571a91b8d9f732ace380310_1440w-旋转曲面-0805": {
+    "width": 241,
+    "height": 280
+  },
+  "v2-b05e15f53c142f3e4e96335140db0902_1440w-拖圆锥面": {
+    "width": 244,
+    "height": 299
+  },
+  "v2-a8dcbbec6d2e1a18581152f46008b424_1440w-单页双曲面": {
+    "width": 429,
+    "height": 410
+  },
+  "v2-a0bb2d0f19baa05140e35f1847ce8252_1440w-抛物柱面-0805": {
+    "width": 329,
+    "height": 299
+  },
+  "v2-9c8cabf0e85335354be7552d31af767f_1440w-圆柱面-0805": {
+    "width": 282,
+    "height": 305
+  },
+  "v2-6a247ff0441bba31d4ea6bfb8757eed5_1440w-双曲线-0805": {
+    "width": 471,
+    "height": 206
+  },
+  "v2-442f7ceb1a8d84c1d1f0dcd8c12c109f_1440w-圆锥面-0805": {
+    "width": 240,
+    "height": 329
+  },
+  "v2-0a1f59b1eb781302a2dd99a9608b6321_1440w-椭球面-0805": {
+    "width": 223,
+    "height": 214
+  },
+  "Hyperbolic_paraboloid-双曲抛物线-0805": {
+    "width": 978,
+    "height": 652
+  },
+  "20230620-双曲柱面-0805": {
+    "width": 720,
+    "height": 540
+  }
+}
