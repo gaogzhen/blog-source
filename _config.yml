@@ -29,6 +29,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - '**/*.md'  # 这行告诉 Hexo 不渲染所有 Markdown 文件中的 Nunjucks 标签
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -104,5 +105,28 @@ deploy:
   type: git
   repo: https://github.com/gaogzhen/gaogzhen.github.io.git
   branch: main
-marked:
-  disableNunjucks: true
+# marked:
+#   disableNunjucks: true
+
+# Markdown-It 配置
+markdown:
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  plugins:
+    - markdown-it-mathjax3
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: header-anchor
+    permalinkSide: left
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'
+
+  
